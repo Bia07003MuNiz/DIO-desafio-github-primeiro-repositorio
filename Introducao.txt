@@ -1,0 +1,20 @@
+GitHub repositório: https://github.com/Bia07003MuNiz
+
+Como sibir no arquivo
+code: copia o link 
+no git: git clone [link copiado]
+
+Como subir no GitHub:
+git status (ver o status do arquivo)
+ls (para ver a lista)
+cd [nome do arquivo] (entra o arquivo)
+git add . (adiciona o arquivo que criamos na pasta)
+git commit -m  "inclusão das anotações do curso de Git/GitHub" (subir)
+	se der errado:
+	git config --global user.email "biancacaroline2707@hotmail.com"
+	git config --local user.name "Bianca.Muniz"
+	git config --list
+	depois commit novamente 
+por fim: git push origin main
+
+
